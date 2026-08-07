@@ -4,7 +4,7 @@
 
 SiteCopilot AI is an AI-powered field operations platform designed to simplify construction site management in Kenya and across Africa. The platform helps contractors, site engineers, project managers, and field teams automate daily operations, improve communication, and gain real-time visibility into project progress.
 
-Rather than replacing existing workflows, SiteCopilot AI integrates with how construction teams already work—using photos, voice notes, WhatsApp, and mobile devices—to reduce paperwork, prevent costly mistakes, and improve decision-making.
+Rather than replacing existing workflows, SiteCopilot AI integrates with how construction teams already work, using photos, voice notes, WhatsApp, and mobile devices, to reduce paperwork, prevent costly mistakes, and improve decision-making.
 
 ## Problem
 
@@ -35,11 +35,7 @@ The first release will focus on solving the most time-consuming daily tasks for 
 - Role-based user management
 - Secure cloud-based data storage
 
-
-
 ## Tech Stack
-
-
 
 ### Frontend
 
@@ -61,20 +57,14 @@ The first release will focus on solving the most time-consuming daily tasks for 
 
 - PostgreSQL
 
-
-
 ### AI
 
 - OpenAI API (or compatible LLM)
-
-
 
 ### Authentication
 
 - JWT
 - bcrypt
-
-
 
 ## Project Goals
 
